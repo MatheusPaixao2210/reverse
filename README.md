@@ -4,6 +4,8 @@
 
 # REA: Reverse Engineer Anything
 
+> **Fork portfolio:** REA is the upstream project by [morluto/rea](https://github.com/morluto/rea). The [portfolio labs](portfolio-labs/README.md) are educational examples added in this fork by MatheusPaixao2210; they are not upstream REA features.
+
 ### One MCP for reverse engineering across binaries, applications, and runtime behavior.
 
 **See a feature you like. Understand how it works, down to the binary level.**

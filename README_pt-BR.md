@@ -4,6 +4,8 @@
 
 # REA: Faça engenharia reversa de qualquer coisa
 
+> **Portfólio deste fork:** o REA é o projeto original de [morluto/rea](https://github.com/morluto/rea). Os [laboratórios de portfólio](portfolio-labs/README.md) são exemplos educativos adicionados neste fork por MatheusPaixao2210; não são funcionalidades do REA original.
+
 ### Um único MCP para engenharia reversa de binários, aplicativos e comportamento em execução.
 
 **Viu uma funcionalidade de que gostou? Entenda como ela funciona, até o nível binário.**
